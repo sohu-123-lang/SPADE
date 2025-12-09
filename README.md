@@ -4,5 +4,5 @@ Transcriptomics Data by Conformal Prediction
 Pipeline：
 
 
-![Pipeline](pipeline.png)
+![Pipeline](pipeline.pdf)
 
